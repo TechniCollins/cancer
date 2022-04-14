@@ -54,3 +54,15 @@ Project Source Code: https://github.com/mpievolbio-scicomp/cancer_sim
 #### 2
 https://www.degruyter.com/document/doi/10.1515/bams-2020-0054/html?lang=en -> Very interesting mathematical models
 
+#### 3 Whole-Cell Simulation
+https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421014884%3Fshowall%3Dtrue#relatedArticles
+
+#### 4
+https://link.springer.com/chapter/10.1007/978-3-030-16272-6_8
+
+#### 5
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000705
+
+#### 6 The E-CELL project
+https://www.e-cell.org/
+https://github.com/ecell
